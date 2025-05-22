@@ -1,4 +1,4 @@
-# BLACKJACK LÓGICO SAÚDE
+# BLACKJACK LÓGICO DOS ALIMENTOS SAUDÁVEIS 
 
 :red_circle: Documentação do Projeto 
 -----------------------
